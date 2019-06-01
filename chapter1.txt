@@ -1,1 +1,1 @@
-Heli-Taxi is KIA.
+Heli-taxi is KIA. Grenade like object.
